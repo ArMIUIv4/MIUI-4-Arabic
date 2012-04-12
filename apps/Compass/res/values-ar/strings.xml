@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_label">البوصلة</string>
+    <string name="getting_location">الحصول على الموقع ...</string>
+    <string name="cannot_get_location">لا يمكن الحصول على موقعك</string>
+    <string name="location_north">%s ش</string>
+    <string name="location_south">%s ج</string>
+    <string name="location_east">%s ش</string>
+    <string name="location_west">%s غ</string>
+
+</resources>
