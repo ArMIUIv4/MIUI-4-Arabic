@@ -1,1 +1,0 @@
-This is a MIUI v4 translation for Arabic
